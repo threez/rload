@@ -1,0 +1,14 @@
+The Results will be in the results folder and will
+have the following structure:
+
+results/
+  2008_07_11_20_00_00/
+    result.db
+    logs/
+      localhost_1.log
+      localhost_2.log
+  2008_07_11_18_00_00/
+    result.db
+    logs/
+      localhost_1.log
+      localhost_2.log
